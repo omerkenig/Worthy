@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<environment>
+  <BrowserType>firefox</BrowserType> 
+  <URL>https://app-qa.worthy.com/</URL>  
+  <Setting>SOLITAIRE</Setting>
+  <Shape>ROU111ND</Shape>
+   <Weight>1</Weight>
+   <Email>151@gmail.com</Email> 
+   <Phone>13474555523</Phone>
+   <FirstName>FirstName</FirstName> 
+   <LastName>LastName</LastName>
+   <Address>32 Boylston St, Boston, MA 02116, USA</Address> 
+  <WaitTime>10</WaitTime>
+  <ImageRepositoryPath>C:/test/InfraDemo/ImageRepository/</ImageRepositoryPath>
+  <IEDriverPath>D:\Jar\IEDriverServer.exe</IEDriverPath>
+  <ChromeDriverPath>D:\Jars\chromedriver.exe</ChromeDriverPath>
+  <FireFoxDriverPath>D:\Jars\geckodriver.exe</FireFoxDriverPath>
+  
+  
+  <!-- Report - Logger -->
+  <TimeStampTemplate>yyyy-MM-dd_HH-mm-ss</TimeStampTemplate>
+  <LogFileName>ExecutionLog.txt</LogFileName>
+  <ReportFilePath>C:/Test/InfraDemo/</ReportFilePath>
+  <ReportFileName>ExtentReport.html</ReportFileName>
+
+</environment>
